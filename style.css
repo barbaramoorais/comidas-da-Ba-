@@ -1,12 +1,12 @@
 body{
-  background-color: #ffc4d5
+  background-color: #ffc4d5;
+  border: 40px ridge #F08080;
 }
 h1{
-  font-size: 100px;font-family: inherit; color: #571b3c
+  font-size: 100px;font-family: inherit; color: #571b3c; text-align: center;
+  border: 5px dotted #F08080;
   }
 h2{
-
-  font-size: 70px; color:
   font-size: 70px; color: #762e4a
 }
 p{
