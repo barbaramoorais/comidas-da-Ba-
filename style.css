@@ -2,6 +2,23 @@ body{
   background-color: #ffc4d5;
   border: 40px ridge #F08080;
 }
+.logoba{
+  width: 17%;
+  margin-left: 5%;
+}
+header{
+  background-color: #FFF9F2
+}
+nav li{
+  display: inline;
+  padding-left: 5%;
+  text-transform: uppercase;
+}
+nav{
+  position: relative;
+  bottom: 115px;
+  left: 700px;
+}
 h1{
   font-size: 100px;font-family: inherit; color: #571b3c; text-align: center;
   border: 5px dotted #F08080;
